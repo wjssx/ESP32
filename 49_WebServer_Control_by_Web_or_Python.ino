@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 // WiFi配置
-const char* ssid = "Kabineto";
-const char* password = "sxws0630s";
+const char* ssid = "Tom";
+const char* password = "11111111";
 
 // 创建Web服务器对象，端口80
 WebServer server(80);
